@@ -20,7 +20,7 @@
 
 | StyleGAN2                 | CycleGAN                   | GauGAN          |
 | ------------------------- | -------------------------- | --------------- |
-| Generate :man::dog2::cat: | Image-to-image translation | Image Synthesis |
+| Generate realistic images | Image-to-image translation | Image synthesis |
 
 | Adobe              | Google          | IBM               | SnapChat      | Disney           |
 | ------------------ | --------------- | ----------------- | ------------- | ---------------- |
