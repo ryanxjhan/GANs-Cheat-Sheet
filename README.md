@@ -6,9 +6,9 @@
 
 #### Generative Models vs. Discriminative Models
 
-| Discriminative Models        | Generative Models                          |
-| ---------------------------- | ------------------------------------------ |
-| Features :arrow_right: Class | Random Noise, Class :arrow_right: Features |
+| Discriminative Models         | Generative Models                           |
+| ----------------------------- | ------------------------------------------- |
+| Features :arrow_right:  Class | Random Noise, Class :arrow_right:  Features |
 
 #### Generative Models 
 
